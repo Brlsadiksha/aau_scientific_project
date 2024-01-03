@@ -1,0 +1,9 @@
+torch
+torcheval
+transformers
+accelerate
+seaborn
+pandas
+matplotlib
+keras
+prettytable
